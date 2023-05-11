@@ -7,7 +7,7 @@ replicaCount: 1
 
 image:
   repository: drupal
-  tag: 8.1-apache
+  tag: 8.2-apache
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
